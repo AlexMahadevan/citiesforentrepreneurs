@@ -1,0 +1,41 @@
+city,metro,ent_rate,ent_share,density
+Miami,Miami-Fort Lauderdale-Pompano Beach,0.56%,81.09%,107.8
+Austin,Austin-Round Rock-San Marcos,0.51%,84.73%,104.5
+Los Angeles,Los Angeles-Long Beach-Santa Ana,0.56%,80.03%,92.3
+San Diego,San Diego-Carlsbad-San Marcos,0.49%,82.54%,95.9
+Las Vegas,Las Vegas-Paradise,0.42%,81.93%,120.7
+San Antonio,San Antonio-New Braunfels,0.38%,89.97%,87.2
+New York,New York-Northern New Jersey-Long Island,0.41%,84.43%,86.5
+Phoenix,Phoenix-Mesa-Glendale,0.38%,87.15%,92.1
+Houston,Houston-Sugar Land-Baytown,0.4%,81.93%,92.6
+Denver,Denver-Aurora-Broomfield,0.39%,82.87%,92.3
+Dallas,Dallas-Fort Worth-Arlington,0.37%,85.18%,94.2
+Atlanta,Atlanta-Sandy Springs-Marietta,0.43%,75.49%,89.9
+Riverside,Riverside-San Bernardino-Ontario,0.36%,80.93%,92.4
+San Francisco,San Francisco-Oakland-Fremont,0.37%,77.78%,86.5
+Kansas City,Kansas City,0.37%,77.81%,83.6
+San Jose,San Jose-Sunnyvale-Santa Clara,0.26%,90.17%,86.9
+Charlotte,Charlotte-Gastonia-Rock Hill,0.37%,71.21%,87.5
+Cincinnati,Cincinnati-Middletown,0.3%,89.73%,61.6
+Tampa,Tampa-St. Petersburg-Clearwater,0.34%,74.69%,89
+Sacramento,Sacramento-Arden-Arcade-Roseville,0.31%,80.17%,81
+Boston,Boston-Cambridge-Quincy,0.33%,79.85%,68.2
+Orlando,Orlando-Kissimmee-Sanford,0.25%,80.25%,105.5
+Columbus,Columbus,0.28%,84.43%,66.2
+Seattle,Seattle-Tacoma-Bellevue,0.25%,80.84%,85
+"Washington, D. C.",Washington-Arlington-Alexandria,0.28%,76.51%,78.1
+St. Louis,St. Louis,0.23%,77.39%,96.7
+Portland,Portland-Vancouver-Hillsboro,0.26%,76.43%,82.8
+Cleveland,Cleveland-Elyria-Mentor,0.19%,95.99%,54.3
+Nashville,Nashville-Davidson-Murfreesboro-Franklin,0.27%,72.43%,82.2
+Jacksonville,Jacksonville,0.11%,95.9%,89.4
+Chicago,Chicago-Joliet-Naperville,0.22%,80.4%,74.7
+Detroit,Detroit-Warren-Livonia,0.25%,76.01%,71.1
+Virginia Beach,Virginia Beach-Norfolk-Newport News,0.18%,86.54%,68.1
+Providence,Providence-New Bedford-Fall River,0.18%,87.32%,61
+Baltimore,Baltimore-Towson,0.2%,81.02%,69.2
+Philadelphia,Philadelphia-Camden-Wilmington,0.21%,75.89%,69.7
+Minneapolis,Minneapolis-St. Paul-Bloomington,0.2%,76.31%,72.5
+Indianapolis,Indianapolis-Carmel,0.16%,71.7%,72.7
+Milwaukee,Milwaukee-Waukesha-West Allis,0.15%,67.53%,60.7
+Pittsburgh,Pittsburgh,0.13%,71.92%,57.2

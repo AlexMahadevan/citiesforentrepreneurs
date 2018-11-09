@@ -1,0 +1,41 @@
+city,metro,ent_rate,ent_share,density,geoid
+"Washington, D. C.",Washington-Arlington-Alexandria,0.0028,0.7651,78.1,47900
+Virginia Beach,Virginia Beach-Norfolk-Newport News,0.0018,0.8654,68.1,47260
+Tampa,Tampa-St. Petersburg-Clearwater,0.0034,0.7469,89,45300
+Seattle,Seattle-Tacoma-Bellevue,0.0025,0.8084,85,42660
+San Jose,San Jose-Sunnyvale-Santa Clara,0.0026,0.9017,86.9,41940
+San Antonio,San Antonio-New Braunfels,0.0038,0.8997,87.2,41700
+St. Louis,St. Louis,0.0023,0.7739,96.7,41180
+Riverside,Riverside-San Bernardino-Ontario,0.0036,0.8093,92.4,40140
+Portland,Portland-Vancouver-Hillsboro,0.0026,0.7643,82.8,38900
+Pittsburgh,Pittsburgh,0.0013,0.7192,57.2,38300
+Philadelphia,Philadelphia-Camden-Wilmington,0.0021,0.7589,69.7,37980
+Orlando,Orlando-Kissimmee-Sanford,0.0025,0.8025,105.5,36740
+Minneapolis,Minneapolis-St. Paul-Bloomington,0.002,0.7631,72.5,33460
+Milwaukee,Milwaukee-Waukesha-West Allis,0.0015,0.6753,60.7,33340
+Kansas City,Kansas City,0.0037,0.7781,83.6,28140
+Jacksonville,Jacksonville,0.0011,0.959,89.4,27260
+Dallas,Dallas-Fort Worth-Arlington,0.0037,0.8518,94.2,19100
+Columbus,Columbus,0.0028,0.8443,66.2,18140
+Miami,Miami-Fort Lauderdale-Pompano Beach,0.0056,0.8109,107.8,33100
+Austin,Austin-Round Rock-San Marcos,0.0051,0.8473,104.5,12420
+Los Angeles,Los Angeles-Long Beach-Santa Ana,0.0056,0.8003,92.3,31080
+San Diego,San Diego-Carlsbad-San Marcos,0.0049,0.8254,95.9,41740
+Las Vegas,Las Vegas-Paradise,0.0042,0.8193,120.7,29820
+New York,New York-Northern New Jersey-Long Island,0.0041,0.8443,86.5,35620
+Phoenix,Phoenix-Mesa-Glendale,0.0038,0.8715,92.1,38060
+Houston,Houston-Sugar Land-Baytown,0.004,0.8193,92.6,26420
+Denver,Denver-Aurora-Broomfield,0.0039,0.8287,92.3,19740
+Atlanta,Atlanta-Sandy Springs-Marietta,0.0043,0.7549,89.9,12060
+San Francisco,San Francisco-Oakland-Fremont,0.0037,0.7778,86.5,41860
+Charlotte,Charlotte-Gastonia-Rock Hill,0.0037,0.7121,87.5,16740
+Cincinnati,Cincinnati-Middletown,0.003,0.8973,61.6,17140
+Sacramento,Sacramento-Arden-Arcade-Roseville,0.0031,0.8017,81,40900
+Boston,Boston-Cambridge-Quincy,0.0033,0.7985,68.2,14460
+Cleveland,Cleveland-Elyria-Mentor,0.0019,0.9599,54.3,17460
+Nashville,Nashville-Davidson-Murfreesboro-Franklin,0.0027,0.7243,82.2,34980
+Chicago,Chicago-Joliet-Naperville,0.0022,0.804,74.7,16980
+Detroit,Detroit-Warren-Livonia,0.0025,0.7601,71.1,19820
+Providence,Providence-New Bedford-Fall River,0.0018,0.8732,61,39300
+Baltimore,Baltimore-Towson,0.002,0.8102,69.2,12580
+Indianapolis,Indianapolis-Carmel,0.0016,0.717,72.7,26900
